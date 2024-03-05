@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "name": "boplcompetitive",
+  "description": "Competitive mods for bopl battle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://abstractmelon.github.io/boplcomp/"
+  },
+  "author": "Melon",
+  "license": "ISC"
+}
